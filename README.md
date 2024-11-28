@@ -1,0 +1,5 @@
+# saberlink Plugin
+
+```
+{{saberlink>URL}}
+```

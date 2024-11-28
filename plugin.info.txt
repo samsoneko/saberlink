@@ -1,0 +1,7 @@
+base   saberlink
+author Anton Caesar
+email  caesaranton700@yahoo.de
+date   2023-06-09
+name   saberlink plugin
+desc   Crosslink Dokuwiki Pages.
+url    none
